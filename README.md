@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/xatlasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xatlasm" height="30" width="40" /></a>
-<a rel="me" href="https://mstdn.jp/@xatlasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/xatlasm/xatlasm/main/mastodon.svg" alt="https://mstdn.jp/@xatlasm" height="30" width="40" /></a>
+<a rel="me" href="https://famichiki.jp/@xatlasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/xatlasm/xatlasm/main/mastodon.svg" alt="https://famichiki.jp/@xatlasm" height="30" width="40" /></a>
 <a href="https://twitter.com/xatlasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xatlasm" height="30" width="40" /></a>
 <a href="/https://www.mitchellatlas.com/posts.rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.mitchellatlas.com/posts.rss" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13271544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13271544" height="30" width="40" /></a>
